@@ -7,19 +7,19 @@ How to setup?
 ---
 - Setting Facebook Accounts
 
-Create some *[Google Chrome Profiles](https://support.google.com/chrome/answer/2364824?hl=en&co=GENIE.Platform%3DDesktop)* and login to Facebook accounts via using this profiles. 
+Create some *[Google Chrome Profiles](https://support.google.com/chrome/answer/2364824?hl=en&co=GENIE.Platform%3DDesktop){:target="_blank" rel="noopener"}* and login to Facebook accounts via using this profiles. 
 
-After that make sure you change [Facebook language](https://www.facebook.com/help/327850733950290) to *English* for all of them accounts.
+After that make sure you change [Facebook language](https://www.facebook.com/help/327850733950290){:target="_blank" rel="noopener"} to *English* for all of them accounts.
 
 * Copying Chrome Profiles
 
 Go to `C:\Users\your_username\AppData\Local\Google\Chrome` this path and copy the things in the User Data folder. *(And make sure you closed all the chrome browsers)*
 
-Then Paste this things into `FacebookCommentBot\FacebookCommentBot\bin\Debug\Net6.0\Profiles` this folder. *(You can delete the profiles you did not want, this profiles named: [Profile [Number]](https://www.techentice.com/how-to-find-the-user-folder-for-a-specific-chrome-profile/))*
+Then Paste this things into `FacebookCommentBot\FacebookCommentBot\bin\Debug\Net6.0\Profiles` this folder. *(You can delete the profiles you did not want, this profiles named: [Profile [Number]](https://www.techentice.com/how-to-find-the-user-folder-for-a-specific-chrome-profile/){:target="_blank" rel="noopener"})*
 
 + Config 
 
-Go to [this path](https://github.com/LindaMosep/Facebook-Comment-Bot/blob/main/FacebookCommentBot/FacebookCommentBot/bin/Debug/net6.0/Config.txt), input the word you wanted the bot search, for example: `SearchWord: art product`
+Go to [this path](https://github.com/LindaMosep/Facebook-Comment-Bot/blob/main/FacebookCommentBot/FacebookCommentBot/bin/Debug/net6.0/Config.txt){:target="_blank" rel="noopener"}, input the word you wanted the bot search, for example: `SearchWord: art product`
 
 Then set the delay between comments, for example: `MinuteDelayBetweenComments: 1`
 
