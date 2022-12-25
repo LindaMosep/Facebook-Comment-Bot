@@ -47,3 +47,4 @@ After that go to [this path](https://github.com/LindaMosep/Facebook-Comment-Bot/
 
 Go to [this path](https://github.com/LindaMosep/Facebook-Comment-Bot/blob/main/FacebookCommentBot/FacebookCommentBot/bin/Debug/net6.0/Comments) and when bot comments, it takes screenshot of this comment automatically and save it in this folder.
 
+That's it. :)
