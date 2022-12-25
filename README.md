@@ -19,6 +19,7 @@ Then Paste this things into `FacebookCommentBot\FacebookCommentBot\bin\Debug\Net
 Go to `FacebookCommentBot\FacebookCommentBot\bin\Debug\Net6.0\Config.txt`, input the word you wanted the bot search, for example: `SearchWord: art product`
 Then set the delay you wanted to bot comment after comment, for example: `MinuteDelayBetweenComments: 1`
 Then set the Chrome Visibility *(this is just for testing)*, for example: `ChromeVisible:false` (false/true, false means it's gonna run browser headless)
+
 So final config file should be like that:
 ```
 SearchWord: art product
