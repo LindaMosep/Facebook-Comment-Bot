@@ -1,0 +1,3 @@
+SearchWord: art product
+MinuteDelayBetweenComments: 1
+ChromeVisible:false
