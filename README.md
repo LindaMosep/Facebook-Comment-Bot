@@ -1,4 +1,4 @@
-# Facebook-Comment-Bot
+# Facebook Comment Bot
 Comment Bot for the Facebook sponsored posts.
 It's a functional commenting bot for the Facebook.
 
