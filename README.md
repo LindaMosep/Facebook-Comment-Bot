@@ -19,7 +19,7 @@ Then Paste this things into `FacebookCommentBot\FacebookCommentBot\bin\Debug\Net
 
 + Config 
 
-Go to `FacebookCommentBot\FacebookCommentBot\bin\Debug\Net6.0\Config.txt`, input the word you wanted the bot search, for example: `SearchWord: art product`
+Go to [this path](FacebookCommentBot\FacebookCommentBot\bin\Debug\Net6.0\Config.txt), input the word you wanted the bot search, for example: `SearchWord: art product`
 
 Then set the delay between comments, for example: `MinuteDelayBetweenComments: 1`
 
