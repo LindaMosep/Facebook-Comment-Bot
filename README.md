@@ -5,4 +5,6 @@ It's a functional commenting bot for the Facebook.
 
 How to setup?
 
+Step 1
+-------
 
