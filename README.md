@@ -7,9 +7,9 @@ How to setup?
 ---
 - Setting Facebook Accounts
 
-Create some *[Google Chrome Profiles](https://support.google.com/chrome/answer/2364824?hl=en&co=GENIE.Platform%3DDesktop){:target="_blank" rel="noopener"}* and login to Facebook accounts via using this profiles. 
+Create some <a href="https://support.google.com/chrome/answer/2364824?hl=en&co=GENIE.Platform%3DDesktop" target="_blank">Google Chrome profiles</a>  and login to Facebook accounts via using this profiles. 
 
-After that make sure you change [Facebook language](https://www.facebook.com/help/327850733950290){:target="_blank" rel="noopener"} to *English* for all of them accounts.
+After that make sure you change <a href="https://www.facebook.com/help/327850733950290" target="_blank">Facebook language</a> to *English* for all of them accounts.
 
 * Copying Chrome Profiles
 
